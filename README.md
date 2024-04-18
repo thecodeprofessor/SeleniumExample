@@ -1,3 +1,9 @@
+Applied Activity 4 Example
+
+Our group is testing the login page of the MyCambrian website located at https://mycambrian.cambriancollege.ca/
+
+The MyCambrtian website is the faculty and student portal for our college.
+
 Test Cases
 
 Id | Name | Student ID | Test Case | Expected Result | Rationale | Technique
